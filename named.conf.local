@@ -10,3 +10,9 @@ zone "aftigrp2.tk" IN {
 	type master;
 	file "/etc/bind/db.aftigrp2.tk";
 };
+
+zone "20.10.10.in-addr.arpa" {
+	type master;
+	notify no;
+	file "/etc/bind/db.10";
+};
