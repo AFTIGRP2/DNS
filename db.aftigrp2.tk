@@ -10,5 +10,5 @@ $TTL	604800
 			 604800 )	; Negative Cache TTL
 ;
 @	IN	NS	DNS.aftigrp2.tk.
-dns	IN	A	10.10.20.56
+testdns	IN	A	10.10.20.56
 @	IN	AAAA	::1
