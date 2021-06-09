@@ -2,7 +2,7 @@
 ; BIND data file for local loopback interface
 ;
 $TTL	604800
-@	IN	SOA	DNS.aftigrp2.tk. admin.aftigrp2.tk. (
+@	IN	SOA	DNS.aftigrp2.tk admin.aftigrp2.tk (
 			202106093	; Serial
 			 604800		; Refresh
 			  86400		; Retry
