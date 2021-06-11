@@ -1,1 +1,1 @@
-Versionning du Serveur DNS AFTIGRP2
+Versionning du DNS AFTIGRP2
